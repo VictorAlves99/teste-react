@@ -1,0 +1,33 @@
+.imagens{    
+    width: 200px;
+    height: 100%;
+    color: black;
+}  
+
+.text{
+    margin-left: 28px;
+}
+
+.img{
+    width: 250px;
+}
+
+.div1{
+    display:flex;
+    justify-content: space-around;
+    background-color: aqua;
+    padding-top: 25px;
+    height: 194px;
+}
+
+.div2{
+    display:flex;
+    justify-content: space-around;
+    background-color: cornflowerblue;
+    height: 194px;
+    padding-top: 25px;
+}
+
+h1{
+    font-size: 23px;
+}

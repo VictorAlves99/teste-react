@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 140px;
+    width: 300px;
+    padding-top: 20px;
+  }
+  
+  .App-header {
+    background-color: royalblue;
+    height: 100%;
+    color: gold;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+
+ 

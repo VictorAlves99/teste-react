@@ -1,0 +1,27 @@
+section nav ul{
+    list-style: none;
+  }
+  
+  section nav ul li a{
+  text-decoration: none;
+  font-size: 25px;
+  height: 32px;
+  color: aliceblue;
+  }
+  
+  section nav ul{
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  section nav ul{
+    margin: 0px;
+    border-bottom: 3px solid rgb(120, 120, 255);
+  }
+  
+  section nav ul li a:hover{
+    color: black;
+    background-color: aliceblue;
+    border-bottom: 4px solid dodgerblue;
+  }
